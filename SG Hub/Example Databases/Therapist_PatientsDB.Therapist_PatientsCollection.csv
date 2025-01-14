@@ -1,0 +1,4 @@
+_id,therapist_username,patient_id,age,gender,height,weight,special_need,therapy_type,therapy_start_date,additional_notes,dateint
+64994f345549c456716af322,Arca Özkan,1,12,Erkek,154,61,Serebral Palsi,Uzanma,26.06.2023 14:54:29,30 dereceden fazla uzanma yapamaz,2023
+64a7d87a6b8342685cd2d019,Arca Özkan,2,10,Erkek,124,64,A,B,7.07.2023 14:54:29,C,2023
+64a7d8db6b8342685cd4606f,Esra Erdem,3,13,Kadın,141,54,AA,BB,6.07.2022 14:54:29,CC,2022

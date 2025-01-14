@@ -1,0 +1,5 @@
+_id,name,developer,goal_of_game,patient_aim,reaching,Reaching Type,parameters,used_for_treating
+62af0218e60e99e2b326984e,Uzay Macerası:Meteor Yolculuğu,Arca Özkan,Save aliens by catching them with a spaceship while avoiding meteors.,Arm movements in 2D,Her yöne fonksiyonel uzanma,4,"speed_left,speed_right,size","Dipleji,Hemipleji"
+62af02cbe60e99e2b326984f,Hedef Vurmaca,Serra Yılmaz,Hit targets accurately,Arm movements in 2D,Her yöne fonksiyonel uzanma,4,,
+62af0218e60e99e2b326984f,Uzay Macerası: Kurtarma Görevi,Arca Özkan,Save aliens by catching and dropping them of planets that match their color,Arm movements in 3D and Color Recognition,"Her yöne fonksiyonel uzanma, Renk Algılama",4,"alien_catch_time,disappear_time,color_help","Dipleji,Hemipleji"
+65881546b6c46058927931ab,Uzay Macerası: Roket Karmaşası,Arca Özkan,Save aliens by catching and dropping them of to rockets that have the solution to their mathematical equations,Arm movements in 3D and Basic Aritmethics,"Her yöne fonksiyonel uzanma, Aritmetik",4,"alien_catch_time,disappear_time,islemler","Dipleji,Hemipleji"
