@@ -1,0 +1,527 @@
+<tag:stardog:designer:Serious_Game:model:PatientGameDB.PatientGameCollection> a <http://www.w3.org/2002/07/owl#Class> .
+<tag:stardog:designer:Serious_Game:model:Therapist_PatientsDB.Therapist_PatientsCollection> a <http://www.w3.org/2002/07/owl#Class> .
+<tag:stardog:designer:Serious_Game:model:TherapistInfoDB.TherapistInfoCollection> a <http://www.w3.org/2002/07/owl#Class> .
+<tag:stardog:designer:Serious_Game:model:_id> a <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<tag:stardog:designer:Serious_Game:model:_id_1> a <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<tag:stardog:designer:Serious_Game:model:additional_notes> a <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<tag:stardog:designer:Serious_Game:model:age> a <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<tag:stardog:designer:Serious_Game:model:age_1> a <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<tag:stardog:designer:Serious_Game:model:completeness> a <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<tag:stardog:designer:Serious_Game:model:Date> a <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<tag:stardog:designer:Serious_Game:model:dateint> a <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<tag:stardog:designer:Serious_Game:model:duration> a <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<tag:stardog:designer:Serious_Game:model:gamePlayed> a <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<tag:stardog:designer:Serious_Game:model:gender> a <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<tag:stardog:designer:Serious_Game:model:height> a <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<tag:stardog:designer:Serious_Game:model:param1> a <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<tag:stardog:designer:Serious_Game:model:param2> a <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<tag:stardog:designer:Serious_Game:model:param3> a <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<tag:stardog:designer:Serious_Game:model:password> a <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<tag:stardog:designer:Serious_Game:model:patient_id> a <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<tag:stardog:designer:Serious_Game:model:smoothness> a <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<tag:stardog:designer:Serious_Game:model:special_need> a <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<tag:stardog:designer:Serious_Game:model:steadiness> a <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<tag:stardog:designer:Serious_Game:model:therapist_username> a <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<tag:stardog:designer:Serious_Game:model:therapist_username_1> a <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<tag:stardog:designer:Serious_Game:model:therapy_start_date> a <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<tag:stardog:designer:Serious_Game:model:therapy_type> a <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<tag:stardog:designer:Serious_Game:model:time> a <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<tag:stardog:designer:Serious_Game:model:userID> a <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<tag:stardog:designer:Serious_Game:model:weight> a <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<tag:stardog:designer:Serious_Game:data:TherapistInfoDB.TherapistInfoCollection:62af0393e60e99e2b3269850> a <tag:stardog:designer:Serious_Game:model:TherapistInfoDB.TherapistInfoCollection> .
+<tag:stardog:designer:Serious_Game:data:TherapistInfoDB.TherapistInfoCollection:64a7d9d418d1fea2ae998234> a <tag:stardog:designer:Serious_Game:model:TherapistInfoDB.TherapistInfoCollection> .
+<tag:stardog:designer:Serious_Game:data:Therapist_PatientsDB.Therapist_PatientsCollection:1> a <tag:stardog:designer:Serious_Game:model:Therapist_PatientsDB.Therapist_PatientsCollection> , <tag:stardog:designer:Serious_Game:model:Therapist_PatientsDB.Therapist_PatientsCollection> .
+<tag:stardog:designer:Serious_Game:data:Therapist_PatientsDB.Therapist_PatientsCollection:2> a <tag:stardog:designer:Serious_Game:model:Therapist_PatientsDB.Therapist_PatientsCollection> , <tag:stardog:designer:Serious_Game:model:Therapist_PatientsDB.Therapist_PatientsCollection> .
+<tag:stardog:designer:Serious_Game:data:Therapist_PatientsDB.Therapist_PatientsCollection:3> a <tag:stardog:designer:Serious_Game:model:Therapist_PatientsDB.Therapist_PatientsCollection> , <tag:stardog:designer:Serious_Game:model:Therapist_PatientsDB.Therapist_PatientsCollection> .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:11.02.2024%2006%3A40%3A00> a <tag:stardog:designer:Serious_Game:model:PatientGameDB.PatientGameCollection> .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:11.02.2024%2006%3A48%3A02> a <tag:stardog:designer:Serious_Game:model:PatientGameDB.PatientGameCollection> .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:11.02.2024%2007%3A05%3A59> a <tag:stardog:designer:Serious_Game:model:PatientGameDB.PatientGameCollection> .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:11.02.2024%2007%3A12%3A41> a <tag:stardog:designer:Serious_Game:model:PatientGameDB.PatientGameCollection> .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:11.02.2024%2007%3A21%3A25> a <tag:stardog:designer:Serious_Game:model:PatientGameDB.PatientGameCollection> .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:11.02.2024%2007%3A24%3A57> a <tag:stardog:designer:Serious_Game:model:PatientGameDB.PatientGameCollection> .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:14.02.2024%2006%3A53%3A13> a <tag:stardog:designer:Serious_Game:model:PatientGameDB.PatientGameCollection> .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:14.02.2024%2006%3A54%3A34> a <tag:stardog:designer:Serious_Game:model:PatientGameDB.PatientGameCollection> .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:21.02.2024%2008%3A53%3A55> a <tag:stardog:designer:Serious_Game:model:PatientGameDB.PatientGameCollection> .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:21.02.2024%2009%3A00%3A17> a <tag:stardog:designer:Serious_Game:model:PatientGameDB.PatientGameCollection> .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:21.02.2024%2009%3A01%3A06> a <tag:stardog:designer:Serious_Game:model:PatientGameDB.PatientGameCollection> .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:21.02.2024%2009%3A07%3A49> a <tag:stardog:designer:Serious_Game:model:PatientGameDB.PatientGameCollection> .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:21.02.2024%2009%3A33%3A25> a <tag:stardog:designer:Serious_Game:model:PatientGameDB.PatientGameCollection> .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:26.02.2024%2012%3A41%3A37> a <tag:stardog:designer:Serious_Game:model:PatientGameDB.PatientGameCollection> .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:27.02.2024%2007%3A24%3A06> a <tag:stardog:designer:Serious_Game:model:PatientGameDB.PatientGameCollection> .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:27.02.2024%2007%3A28%3A31> a <tag:stardog:designer:Serious_Game:model:PatientGameDB.PatientGameCollection> .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:27.02.2024%2007%3A38%3A49> a <tag:stardog:designer:Serious_Game:model:PatientGameDB.PatientGameCollection> .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:6.04.2024%2009%3A55%3A41> a <tag:stardog:designer:Serious_Game:model:PatientGameDB.PatientGameCollection> .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:6.04.2024%2009%3A56%3A56> a <tag:stardog:designer:Serious_Game:model:PatientGameDB.PatientGameCollection> .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:9.04.2024%2007%3A13%3A05> a <tag:stardog:designer:Serious_Game:model:PatientGameDB.PatientGameCollection> .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:9.04.2024%2007%3A18%3A57> a <tag:stardog:designer:Serious_Game:model:PatientGameDB.PatientGameCollection> .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:20.04.2024%2008%3A02%3A02> a <tag:stardog:designer:Serious_Game:model:PatientGameDB.PatientGameCollection> .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:20.04.2024%2010%3A29%3A04> a <tag:stardog:designer:Serious_Game:model:PatientGameDB.PatientGameCollection> .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:20.04.2024%2010%3A45%3A12> a <tag:stardog:designer:Serious_Game:model:PatientGameDB.PatientGameCollection> .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:4.05.2024%2008%3A22%3A18> a <tag:stardog:designer:Serious_Game:model:PatientGameDB.PatientGameCollection> .
+<tag:stardog:designer:Serious_Game:model:plays_game> a <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<tag:stardog:designer:Serious_Game:model:treats> a <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<tag:stardog:designer:Serious_Game:model:GamesDB.GamesCollection> a <http://www.w3.org/2002/07/owl#Class> .
+<tag:stardog:designer:Serious_Game:model:_id_2> a <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<tag:stardog:designer:Serious_Game:model:developer> a <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<tag:stardog:designer:Serious_Game:model:goal_of_game> a <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<tag:stardog:designer:Serious_Game:model:name> a <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<tag:stardog:designer:Serious_Game:model:parameters> a <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<tag:stardog:designer:Serious_Game:model:patient_aim> a <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<tag:stardog:designer:Serious_Game:model:reaching> a <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<tag:stardog:designer:Serious_Game:model:Reaching_Type> a <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<tag:stardog:designer:Serious_Game:model:used_for_treating> a <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<tag:stardog:designer:Serious_Game:data:GamesDB.GamesCollection:Uzay%20Maceras%C4%B1%3AMeteor%20Yolculu%C4%9Fu> a <tag:stardog:designer:Serious_Game:model:GamesDB.GamesCollection> .
+<tag:stardog:designer:Serious_Game:data:GamesDB.GamesCollection:Hedef%20Vurmaca> a <tag:stardog:designer:Serious_Game:model:GamesDB.GamesCollection> .
+<tag:stardog:designer:Serious_Game:data:GamesDB.GamesCollection:Uzay%20Maceras%C4%B1%3A%20Kurtarma%20G%C3%B6revi> a <tag:stardog:designer:Serious_Game:model:GamesDB.GamesCollection> .
+<tag:stardog:designer:Serious_Game:data:GamesDB.GamesCollection:Uzay%20Maceras%C4%B1%3A%20Roket%20Karma%C5%9Fas%C4%B1> a <tag:stardog:designer:Serious_Game:model:GamesDB.GamesCollection> .
+<tag:stardog:designer:Serious_Game:model> <http://www.w3.org/2000/01/rdf-schema#label> "Serious Game" .
+<tag:stardog:designer:Serious_Game:model:PatientGameDB.PatientGameCollection> <http://www.w3.org/2000/01/rdf-schema#label> "Sessions" .
+<tag:stardog:designer:Serious_Game:model:Therapist_PatientsDB.Therapist_PatientsCollection> <http://www.w3.org/2000/01/rdf-schema#label> "Patients" .
+<tag:stardog:designer:Serious_Game:model:TherapistInfoDB.TherapistInfoCollection> <http://www.w3.org/2000/01/rdf-schema#label> "Therapists" .
+<tag:stardog:designer:Serious_Game:model:_id> <http://www.w3.org/2000/01/rdf-schema#label> "_id" .
+<tag:stardog:designer:Serious_Game:model:_id_1> <http://www.w3.org/2000/01/rdf-schema#label> "_id" .
+<tag:stardog:designer:Serious_Game:model:additional_notes> <http://www.w3.org/2000/01/rdf-schema#label> "additional_notes" .
+<tag:stardog:designer:Serious_Game:model:age> <http://www.w3.org/2000/01/rdf-schema#label> "age" .
+<tag:stardog:designer:Serious_Game:model:age_1> <http://www.w3.org/2000/01/rdf-schema#label> "age" .
+<tag:stardog:designer:Serious_Game:model:completeness> <http://www.w3.org/2000/01/rdf-schema#label> "completeness" .
+<tag:stardog:designer:Serious_Game:model:Date> <http://www.w3.org/2000/01/rdf-schema#label> "Date" .
+<tag:stardog:designer:Serious_Game:model:dateint> <http://www.w3.org/2000/01/rdf-schema#label> "dateint" .
+<tag:stardog:designer:Serious_Game:model:duration> <http://www.w3.org/2000/01/rdf-schema#label> "duration" .
+<tag:stardog:designer:Serious_Game:model:gamePlayed> <http://www.w3.org/2000/01/rdf-schema#label> "gamePlayed" .
+<tag:stardog:designer:Serious_Game:model:gender> <http://www.w3.org/2000/01/rdf-schema#label> "gender" .
+<tag:stardog:designer:Serious_Game:model:height> <http://www.w3.org/2000/01/rdf-schema#label> "height" .
+<tag:stardog:designer:Serious_Game:model:param1> <http://www.w3.org/2000/01/rdf-schema#label> "param1" .
+<tag:stardog:designer:Serious_Game:model:param2> <http://www.w3.org/2000/01/rdf-schema#label> "param2" .
+<tag:stardog:designer:Serious_Game:model:param3> <http://www.w3.org/2000/01/rdf-schema#label> "param3" .
+<tag:stardog:designer:Serious_Game:model:password> <http://www.w3.org/2000/01/rdf-schema#label> "password" .
+<tag:stardog:designer:Serious_Game:model:patient_id> <http://www.w3.org/2000/01/rdf-schema#label> "patient_id" .
+<tag:stardog:designer:Serious_Game:model:smoothness> <http://www.w3.org/2000/01/rdf-schema#label> "smoothness" .
+<tag:stardog:designer:Serious_Game:model:special_need> <http://www.w3.org/2000/01/rdf-schema#label> "special_need" .
+<tag:stardog:designer:Serious_Game:model:steadiness> <http://www.w3.org/2000/01/rdf-schema#label> "steadiness" .
+<tag:stardog:designer:Serious_Game:model:therapist_username> <http://www.w3.org/2000/01/rdf-schema#label> "therapist_username" .
+<tag:stardog:designer:Serious_Game:model:therapist_username_1> <http://www.w3.org/2000/01/rdf-schema#label> "therapist_username" .
+<tag:stardog:designer:Serious_Game:model:therapy_start_date> <http://www.w3.org/2000/01/rdf-schema#label> "therapy_start_date" .
+<tag:stardog:designer:Serious_Game:model:therapy_type> <http://www.w3.org/2000/01/rdf-schema#label> "therapy_type" .
+<tag:stardog:designer:Serious_Game:model:time> <http://www.w3.org/2000/01/rdf-schema#label> "time" .
+<tag:stardog:designer:Serious_Game:model:userID> <http://www.w3.org/2000/01/rdf-schema#label> "userID" .
+<tag:stardog:designer:Serious_Game:model:weight> <http://www.w3.org/2000/01/rdf-schema#label> "weight" .
+<tag:stardog:designer:Serious_Game:data:TherapistInfoDB.TherapistInfoCollection> <http://www.w3.org/2000/01/rdf-schema#label> "TherapistInfoDB.TherapistInfoCollection" .
+<tag:stardog:designer:Serious_Game:data:TherapistInfoDB.TherapistInfoCollection:62af0393e60e99e2b3269850> <http://www.w3.org/2000/01/rdf-schema#label> "Esra Erdem" .
+<tag:stardog:designer:Serious_Game:data:TherapistInfoDB.TherapistInfoCollection:64a7d9d418d1fea2ae998234> <http://www.w3.org/2000/01/rdf-schema#label> "Arca Özkan" .
+<tag:stardog:designer:Serious_Game:data:Therapist_PatientsDB.Therapist_PatientsCollection> <http://www.w3.org/2000/01/rdf-schema#label> "Therapist_PatientsDB.Therapist_PatientsCollection" .
+<tag:stardog:designer:Serious_Game:data:Therapist_PatientsDB.Therapist_PatientsCollection:1> <http://www.w3.org/2000/01/rdf-schema#label> "Arda Özcan" , "1" .
+<tag:stardog:designer:Serious_Game:data:Therapist_PatientsDB.Therapist_PatientsCollection:2> <http://www.w3.org/2000/01/rdf-schema#label> "Kemal Yılmaz" , "2" .
+<tag:stardog:designer:Serious_Game:data:Therapist_PatientsDB.Therapist_PatientsCollection:3> <http://www.w3.org/2000/01/rdf-schema#label> "Elif Sarıoğlu" , "3" .
+<tag:stardog:designer:Serious_Game:data:save_2> <http://www.w3.org/2000/01/rdf-schema#label> "save_2" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection> <http://www.w3.org/2000/01/rdf-schema#label> "PatientGameDB.PatientGameCollection" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:11.02.2024%2006%3A40%3A00> <http://www.w3.org/2000/01/rdf-schema#label> "Uzay Macerası:Kurtarma Görevi" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:11.02.2024%2006%3A48%3A02> <http://www.w3.org/2000/01/rdf-schema#label> "Uzay Macerası:Kurtarma Görevi" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:11.02.2024%2007%3A05%3A59> <http://www.w3.org/2000/01/rdf-schema#label> "Uzay Macerası:Kurtarma Görevi" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:11.02.2024%2007%3A12%3A41> <http://www.w3.org/2000/01/rdf-schema#label> "Uzay Macerası:Kurtarma Görevi" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:11.02.2024%2007%3A21%3A25> <http://www.w3.org/2000/01/rdf-schema#label> "Uzay Macerası:Kurtarma Görevi" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:11.02.2024%2007%3A24%3A57> <http://www.w3.org/2000/01/rdf-schema#label> "Uzay Macerası:Kurtarma Görevi" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:14.02.2024%2006%3A53%3A13> <http://www.w3.org/2000/01/rdf-schema#label> "Uzay Macerası:Roket Karmaşası" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:14.02.2024%2006%3A54%3A34> <http://www.w3.org/2000/01/rdf-schema#label> "Uzay Macerası:Roket Karmaşası" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:21.02.2024%2008%3A53%3A55> <http://www.w3.org/2000/01/rdf-schema#label> "Uzay Macerası:Kurtarma Görevi" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:21.02.2024%2009%3A00%3A17> <http://www.w3.org/2000/01/rdf-schema#label> "Uzay Macerası:Kurtarma Görevi" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:21.02.2024%2009%3A01%3A06> <http://www.w3.org/2000/01/rdf-schema#label> "Uzay Macerası:Kurtarma Görevi" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:21.02.2024%2009%3A07%3A49> <http://www.w3.org/2000/01/rdf-schema#label> "Uzay Macerası:Roket Karmaşası" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:21.02.2024%2009%3A33%3A25> <http://www.w3.org/2000/01/rdf-schema#label> "Uzay Macerası:Roket Karmaşası" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:26.02.2024%2012%3A41%3A37> <http://www.w3.org/2000/01/rdf-schema#label> "Uzay Macerası:Roket Karmaşası" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:27.02.2024%2007%3A24%3A06> <http://www.w3.org/2000/01/rdf-schema#label> "Uzay Macerası:Roket Karmaşası" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:27.02.2024%2007%3A28%3A31> <http://www.w3.org/2000/01/rdf-schema#label> "Uzay Macerası:Roket Karmaşası" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:27.02.2024%2007%3A38%3A49> <http://www.w3.org/2000/01/rdf-schema#label> "Uzay Macerası:Roket Karmaşası" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:6.04.2024%2009%3A55%3A41> <http://www.w3.org/2000/01/rdf-schema#label> "Uzay Macerası:Meteor Yolculuğu" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:6.04.2024%2009%3A56%3A56> <http://www.w3.org/2000/01/rdf-schema#label> "Uzay Macerası:Meteor Yolculuğu" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:9.04.2024%2007%3A13%3A05> <http://www.w3.org/2000/01/rdf-schema#label> "Uzay Macerası:Meteor Yolculuğu" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:9.04.2024%2007%3A18%3A57> <http://www.w3.org/2000/01/rdf-schema#label> "Uzay Macerası:Kurtarma Görevi" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:20.04.2024%2008%3A02%3A02> <http://www.w3.org/2000/01/rdf-schema#label> "Uzay Macerası:Meteor Yolculuğu" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:20.04.2024%2010%3A29%3A04> <http://www.w3.org/2000/01/rdf-schema#label> "Uzay Macerası:Kurtarma Görevi" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:20.04.2024%2010%3A45%3A12> <http://www.w3.org/2000/01/rdf-schema#label> "Uzay Macerası:Kurtarma Görevi" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:4.05.2024%2008%3A22%3A18> <http://www.w3.org/2000/01/rdf-schema#label> "Uzay Macerası:Kurtarma Görevi" .
+<tag:stardog:designer:Serious_Game:model:plays_game> <http://www.w3.org/2000/01/rdf-schema#label> "plays_game" .
+<tag:stardog:designer:Serious_Game:model:treats> <http://www.w3.org/2000/01/rdf-schema#label> "treats" .
+<tag:stardog:designer:Serious_Game:model:GamesDB.GamesCollection> <http://www.w3.org/2000/01/rdf-schema#label> "GamesDB.GamesCollection" .
+<tag:stardog:designer:Serious_Game:model:_id_2> <http://www.w3.org/2000/01/rdf-schema#label> "_id" .
+<tag:stardog:designer:Serious_Game:model:developer> <http://www.w3.org/2000/01/rdf-schema#label> "developer" .
+<tag:stardog:designer:Serious_Game:model:goal_of_game> <http://www.w3.org/2000/01/rdf-schema#label> "goal_of_game" .
+<tag:stardog:designer:Serious_Game:model:name> <http://www.w3.org/2000/01/rdf-schema#label> "name" .
+<tag:stardog:designer:Serious_Game:model:parameters> <http://www.w3.org/2000/01/rdf-schema#label> "parameters" .
+<tag:stardog:designer:Serious_Game:model:patient_aim> <http://www.w3.org/2000/01/rdf-schema#label> "patient_aim" .
+<tag:stardog:designer:Serious_Game:model:reaching> <http://www.w3.org/2000/01/rdf-schema#label> "reaching" .
+<tag:stardog:designer:Serious_Game:model:Reaching_Type> <http://www.w3.org/2000/01/rdf-schema#label> "Reaching Type" .
+<tag:stardog:designer:Serious_Game:model:used_for_treating> <http://www.w3.org/2000/01/rdf-schema#label> "used_for_treating" .
+<tag:stardog:designer:Serious_Game:data:GamesDB.GamesCollection> <http://www.w3.org/2000/01/rdf-schema#label> "GamesDB.GamesCollection" .
+<tag:stardog:designer:Serious_Game:data:GamesDB.GamesCollection:Uzay%20Maceras%C4%B1%3AMeteor%20Yolculu%C4%9Fu> <http://www.w3.org/2000/01/rdf-schema#label> "Uzay Macerası:Meteor Yolculuğu" .
+<tag:stardog:designer:Serious_Game:data:GamesDB.GamesCollection:Hedef%20Vurmaca> <http://www.w3.org/2000/01/rdf-schema#label> "Hedef Vurmaca" .
+<tag:stardog:designer:Serious_Game:data:GamesDB.GamesCollection:Uzay%20Maceras%C4%B1%3A%20Kurtarma%20G%C3%B6revi> <http://www.w3.org/2000/01/rdf-schema#label> "Uzay Macerası: Kurtarma Görevi" .
+<tag:stardog:designer:Serious_Game:data:GamesDB.GamesCollection:Uzay%20Maceras%C4%B1%3A%20Roket%20Karma%C5%9Fas%C4%B1> <http://www.w3.org/2000/01/rdf-schema#label> "Uzay Macerası: Roket Karmaşası" .
+<tag:stardog:designer:Serious_Game:model:PatientGameDB.PatientGameCollection> <tag:stardog:designer:colorId> "sd-qb-light-orange" .
+<tag:stardog:designer:Serious_Game:model:Therapist_PatientsDB.Therapist_PatientsCollection> <tag:stardog:designer:colorId> "sd-qb-red" .
+<tag:stardog:designer:Serious_Game:model:TherapistInfoDB.TherapistInfoCollection> <tag:stardog:designer:colorId> "sd-qb-orange" .
+<tag:stardog:designer:Serious_Game:model:GamesDB.GamesCollection> <tag:stardog:designer:colorId> "sd-qb-gold" .
+<tag:stardog:designer:Serious_Game:model:_id> <https://schema.org/domainIncludes> <tag:stardog:designer:Serious_Game:model:Therapist_PatientsDB.Therapist_PatientsCollection> .
+<tag:stardog:designer:Serious_Game:model:_id_1> <https://schema.org/domainIncludes> <tag:stardog:designer:Serious_Game:model:TherapistInfoDB.TherapistInfoCollection> .
+<tag:stardog:designer:Serious_Game:model:additional_notes> <https://schema.org/domainIncludes> <tag:stardog:designer:Serious_Game:model:Therapist_PatientsDB.Therapist_PatientsCollection> .
+<tag:stardog:designer:Serious_Game:model:age> <https://schema.org/domainIncludes> <tag:stardog:designer:Serious_Game:model:Therapist_PatientsDB.Therapist_PatientsCollection> .
+<tag:stardog:designer:Serious_Game:model:age_1> <https://schema.org/domainIncludes> <tag:stardog:designer:Serious_Game:model:TherapistInfoDB.TherapistInfoCollection> .
+<tag:stardog:designer:Serious_Game:model:completeness> <https://schema.org/domainIncludes> <tag:stardog:designer:Serious_Game:model:PatientGameDB.PatientGameCollection> .
+<tag:stardog:designer:Serious_Game:model:Date> <https://schema.org/domainIncludes> <tag:stardog:designer:Serious_Game:model:PatientGameDB.PatientGameCollection> .
+<tag:stardog:designer:Serious_Game:model:dateint> <https://schema.org/domainIncludes> <tag:stardog:designer:Serious_Game:model:Therapist_PatientsDB.Therapist_PatientsCollection> .
+<tag:stardog:designer:Serious_Game:model:duration> <https://schema.org/domainIncludes> <tag:stardog:designer:Serious_Game:model:PatientGameDB.PatientGameCollection> .
+<tag:stardog:designer:Serious_Game:model:gamePlayed> <https://schema.org/domainIncludes> <tag:stardog:designer:Serious_Game:model:PatientGameDB.PatientGameCollection> .
+<tag:stardog:designer:Serious_Game:model:gender> <https://schema.org/domainIncludes> <tag:stardog:designer:Serious_Game:model:Therapist_PatientsDB.Therapist_PatientsCollection> .
+<tag:stardog:designer:Serious_Game:model:height> <https://schema.org/domainIncludes> <tag:stardog:designer:Serious_Game:model:Therapist_PatientsDB.Therapist_PatientsCollection> .
+<tag:stardog:designer:Serious_Game:model:param1> <https://schema.org/domainIncludes> <tag:stardog:designer:Serious_Game:model:PatientGameDB.PatientGameCollection> .
+<tag:stardog:designer:Serious_Game:model:param2> <https://schema.org/domainIncludes> <tag:stardog:designer:Serious_Game:model:PatientGameDB.PatientGameCollection> .
+<tag:stardog:designer:Serious_Game:model:param3> <https://schema.org/domainIncludes> <tag:stardog:designer:Serious_Game:model:PatientGameDB.PatientGameCollection> .
+<tag:stardog:designer:Serious_Game:model:password> <https://schema.org/domainIncludes> <tag:stardog:designer:Serious_Game:model:TherapistInfoDB.TherapistInfoCollection> .
+<tag:stardog:designer:Serious_Game:model:patient_id> <https://schema.org/domainIncludes> <tag:stardog:designer:Serious_Game:model:Therapist_PatientsDB.Therapist_PatientsCollection> .
+<tag:stardog:designer:Serious_Game:model:smoothness> <https://schema.org/domainIncludes> <tag:stardog:designer:Serious_Game:model:PatientGameDB.PatientGameCollection> .
+<tag:stardog:designer:Serious_Game:model:special_need> <https://schema.org/domainIncludes> <tag:stardog:designer:Serious_Game:model:Therapist_PatientsDB.Therapist_PatientsCollection> .
+<tag:stardog:designer:Serious_Game:model:steadiness> <https://schema.org/domainIncludes> <tag:stardog:designer:Serious_Game:model:PatientGameDB.PatientGameCollection> .
+<tag:stardog:designer:Serious_Game:model:therapist_username> <https://schema.org/domainIncludes> <tag:stardog:designer:Serious_Game:model:Therapist_PatientsDB.Therapist_PatientsCollection> .
+<tag:stardog:designer:Serious_Game:model:therapist_username_1> <https://schema.org/domainIncludes> <tag:stardog:designer:Serious_Game:model:TherapistInfoDB.TherapistInfoCollection> .
+<tag:stardog:designer:Serious_Game:model:therapy_start_date> <https://schema.org/domainIncludes> <tag:stardog:designer:Serious_Game:model:Therapist_PatientsDB.Therapist_PatientsCollection> .
+<tag:stardog:designer:Serious_Game:model:therapy_type> <https://schema.org/domainIncludes> <tag:stardog:designer:Serious_Game:model:Therapist_PatientsDB.Therapist_PatientsCollection> .
+<tag:stardog:designer:Serious_Game:model:time> <https://schema.org/domainIncludes> <tag:stardog:designer:Serious_Game:model:PatientGameDB.PatientGameCollection> .
+<tag:stardog:designer:Serious_Game:model:userID> <https://schema.org/domainIncludes> <tag:stardog:designer:Serious_Game:model:PatientGameDB.PatientGameCollection> .
+<tag:stardog:designer:Serious_Game:model:weight> <https://schema.org/domainIncludes> <tag:stardog:designer:Serious_Game:model:Therapist_PatientsDB.Therapist_PatientsCollection> .
+<tag:stardog:designer:Serious_Game:model:plays_game> <https://schema.org/domainIncludes> <tag:stardog:designer:Serious_Game:model:Therapist_PatientsDB.Therapist_PatientsCollection> .
+<tag:stardog:designer:Serious_Game:model:treats> <https://schema.org/domainIncludes> <tag:stardog:designer:Serious_Game:model:TherapistInfoDB.TherapistInfoCollection> .
+<tag:stardog:designer:Serious_Game:model:_id_2> <https://schema.org/domainIncludes> <tag:stardog:designer:Serious_Game:model:GamesDB.GamesCollection> .
+<tag:stardog:designer:Serious_Game:model:developer> <https://schema.org/domainIncludes> <tag:stardog:designer:Serious_Game:model:GamesDB.GamesCollection> .
+<tag:stardog:designer:Serious_Game:model:goal_of_game> <https://schema.org/domainIncludes> <tag:stardog:designer:Serious_Game:model:GamesDB.GamesCollection> .
+<tag:stardog:designer:Serious_Game:model:name> <https://schema.org/domainIncludes> <tag:stardog:designer:Serious_Game:model:GamesDB.GamesCollection> .
+<tag:stardog:designer:Serious_Game:model:parameters> <https://schema.org/domainIncludes> <tag:stardog:designer:Serious_Game:model:GamesDB.GamesCollection> .
+<tag:stardog:designer:Serious_Game:model:patient_aim> <https://schema.org/domainIncludes> <tag:stardog:designer:Serious_Game:model:GamesDB.GamesCollection> .
+<tag:stardog:designer:Serious_Game:model:reaching> <https://schema.org/domainIncludes> <tag:stardog:designer:Serious_Game:model:GamesDB.GamesCollection> .
+<tag:stardog:designer:Serious_Game:model:Reaching_Type> <https://schema.org/domainIncludes> <tag:stardog:designer:Serious_Game:model:GamesDB.GamesCollection> .
+<tag:stardog:designer:Serious_Game:model:used_for_treating> <https://schema.org/domainIncludes> <tag:stardog:designer:Serious_Game:model:GamesDB.GamesCollection> .
+<tag:stardog:designer:Serious_Game:model:_id> <https://schema.org/rangeIncludes> <http://www.w3.org/2001/XMLSchema#string> .
+<tag:stardog:designer:Serious_Game:model:_id_1> <https://schema.org/rangeIncludes> <http://www.w3.org/2001/XMLSchema#string> .
+<tag:stardog:designer:Serious_Game:model:additional_notes> <https://schema.org/rangeIncludes> <http://www.w3.org/2001/XMLSchema#string> .
+<tag:stardog:designer:Serious_Game:model:age> <https://schema.org/rangeIncludes> <http://www.w3.org/2001/XMLSchema#integer> .
+<tag:stardog:designer:Serious_Game:model:age_1> <https://schema.org/rangeIncludes> <http://www.w3.org/2001/XMLSchema#integer> .
+<tag:stardog:designer:Serious_Game:model:completeness> <https://schema.org/rangeIncludes> <http://www.w3.org/2001/XMLSchema#string> .
+<tag:stardog:designer:Serious_Game:model:Date> <https://schema.org/rangeIncludes> <http://www.w3.org/2001/XMLSchema#string> .
+<tag:stardog:designer:Serious_Game:model:dateint> <https://schema.org/rangeIncludes> <http://www.w3.org/2001/XMLSchema#integer> .
+<tag:stardog:designer:Serious_Game:model:duration> <https://schema.org/rangeIncludes> <http://www.w3.org/2001/XMLSchema#string> .
+<tag:stardog:designer:Serious_Game:model:gamePlayed> <https://schema.org/rangeIncludes> <http://www.w3.org/2001/XMLSchema#string> .
+<tag:stardog:designer:Serious_Game:model:gender> <https://schema.org/rangeIncludes> <http://www.w3.org/2001/XMLSchema#string> .
+<tag:stardog:designer:Serious_Game:model:height> <https://schema.org/rangeIncludes> <http://www.w3.org/2001/XMLSchema#integer> .
+<tag:stardog:designer:Serious_Game:model:param1> <https://schema.org/rangeIncludes> <http://www.w3.org/2001/XMLSchema#string> .
+<tag:stardog:designer:Serious_Game:model:param2> <https://schema.org/rangeIncludes> <http://www.w3.org/2001/XMLSchema#string> .
+<tag:stardog:designer:Serious_Game:model:param3> <https://schema.org/rangeIncludes> <http://www.w3.org/2001/XMLSchema#string> .
+<tag:stardog:designer:Serious_Game:model:password> <https://schema.org/rangeIncludes> <http://www.w3.org/2001/XMLSchema#string> .
+<tag:stardog:designer:Serious_Game:model:patient_id> <https://schema.org/rangeIncludes> <http://www.w3.org/2001/XMLSchema#integer> .
+<tag:stardog:designer:Serious_Game:model:smoothness> <https://schema.org/rangeIncludes> <http://www.w3.org/2001/XMLSchema#string> .
+<tag:stardog:designer:Serious_Game:model:special_need> <https://schema.org/rangeIncludes> <http://www.w3.org/2001/XMLSchema#string> .
+<tag:stardog:designer:Serious_Game:model:steadiness> <https://schema.org/rangeIncludes> <http://www.w3.org/2001/XMLSchema#string> .
+<tag:stardog:designer:Serious_Game:model:therapist_username> <https://schema.org/rangeIncludes> <http://www.w3.org/2001/XMLSchema#string> .
+<tag:stardog:designer:Serious_Game:model:therapist_username_1> <https://schema.org/rangeIncludes> <http://www.w3.org/2001/XMLSchema#string> .
+<tag:stardog:designer:Serious_Game:model:therapy_start_date> <https://schema.org/rangeIncludes> <http://www.w3.org/2001/XMLSchema#string> .
+<tag:stardog:designer:Serious_Game:model:therapy_type> <https://schema.org/rangeIncludes> <http://www.w3.org/2001/XMLSchema#string> .
+<tag:stardog:designer:Serious_Game:model:time> <https://schema.org/rangeIncludes> <http://www.w3.org/2001/XMLSchema#string> .
+<tag:stardog:designer:Serious_Game:model:userID> <https://schema.org/rangeIncludes> <http://www.w3.org/2001/XMLSchema#integer> .
+<tag:stardog:designer:Serious_Game:model:weight> <https://schema.org/rangeIncludes> <http://www.w3.org/2001/XMLSchema#integer> .
+<tag:stardog:designer:Serious_Game:model:plays_game> <https://schema.org/rangeIncludes> <tag:stardog:designer:Serious_Game:model:PatientGameDB.PatientGameCollection> .
+<tag:stardog:designer:Serious_Game:model:treats> <https://schema.org/rangeIncludes> <tag:stardog:designer:Serious_Game:model:Therapist_PatientsDB.Therapist_PatientsCollection> .
+<tag:stardog:designer:Serious_Game:model:_id_2> <https://schema.org/rangeIncludes> <http://www.w3.org/2001/XMLSchema#string> .
+<tag:stardog:designer:Serious_Game:model:developer> <https://schema.org/rangeIncludes> <http://www.w3.org/2001/XMLSchema#string> .
+<tag:stardog:designer:Serious_Game:model:goal_of_game> <https://schema.org/rangeIncludes> <http://www.w3.org/2001/XMLSchema#string> .
+<tag:stardog:designer:Serious_Game:model:name> <https://schema.org/rangeIncludes> <http://www.w3.org/2001/XMLSchema#string> .
+<tag:stardog:designer:Serious_Game:model:parameters> <https://schema.org/rangeIncludes> <http://www.w3.org/2001/XMLSchema#string> .
+<tag:stardog:designer:Serious_Game:model:patient_aim> <https://schema.org/rangeIncludes> <http://www.w3.org/2001/XMLSchema#string> .
+<tag:stardog:designer:Serious_Game:model:reaching> <https://schema.org/rangeIncludes> <http://www.w3.org/2001/XMLSchema#string> .
+<tag:stardog:designer:Serious_Game:model:Reaching_Type> <https://schema.org/rangeIncludes> <http://www.w3.org/2001/XMLSchema#integer> .
+<tag:stardog:designer:Serious_Game:model:used_for_treating> <https://schema.org/rangeIncludes> <http://www.w3.org/2001/XMLSchema#string> .
+<tag:stardog:designer:Serious_Game:data:Therapist_PatientsDB.Therapist_PatientsCollection:1> <tag:stardog:designer:Serious_Game:model:additional_notes> "30 dereceden fazla uzanma yapamaz" .
+<tag:stardog:designer:Serious_Game:data:Therapist_PatientsDB.Therapist_PatientsCollection:2> <tag:stardog:designer:Serious_Game:model:additional_notes> "C" .
+<tag:stardog:designer:Serious_Game:data:Therapist_PatientsDB.Therapist_PatientsCollection:3> <tag:stardog:designer:Serious_Game:model:additional_notes> "CC" .
+<tag:stardog:designer:Serious_Game:data:Therapist_PatientsDB.Therapist_PatientsCollection:1> <tag:stardog:designer:Serious_Game:model:age> 12 , 12 .
+<tag:stardog:designer:Serious_Game:data:Therapist_PatientsDB.Therapist_PatientsCollection:2> <tag:stardog:designer:Serious_Game:model:age> 9 , 10 .
+<tag:stardog:designer:Serious_Game:data:Therapist_PatientsDB.Therapist_PatientsCollection:3> <tag:stardog:designer:Serious_Game:model:age> 11 , 13 .
+<tag:stardog:designer:Serious_Game:data:TherapistInfoDB.TherapistInfoCollection:62af0393e60e99e2b3269850> <tag:stardog:designer:Serious_Game:model:age_1> 40 .
+<tag:stardog:designer:Serious_Game:data:TherapistInfoDB.TherapistInfoCollection:64a7d9d418d1fea2ae998234> <tag:stardog:designer:Serious_Game:model:age_1> 25 .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:6.04.2024%2009%3A55%3A41> <tag:stardog:designer:Serious_Game:model:completeness> "0.7160876989364624" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:6.04.2024%2009%3A56%3A56> <tag:stardog:designer:Serious_Game:model:completeness> "0.6048933863639832" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:9.04.2024%2007%3A13%3A05> <tag:stardog:designer:Serious_Game:model:completeness> "0.6295442581176758" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:9.04.2024%2007%3A18%3A57> <tag:stardog:designer:Serious_Game:model:completeness> "0" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:20.04.2024%2008%3A02%3A02> <tag:stardog:designer:Serious_Game:model:completeness> "0.7928174138069153" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:20.04.2024%2010%3A29%3A04> <tag:stardog:designer:Serious_Game:model:completeness> "0" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:20.04.2024%2010%3A45%3A12> <tag:stardog:designer:Serious_Game:model:completeness> "0" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:4.05.2024%2008%3A22%3A18> <tag:stardog:designer:Serious_Game:model:completeness> "1" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:11.02.2024%2006%3A40%3A00> <tag:stardog:designer:Serious_Game:model:Date> "11.02.2024 06:40:00" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:11.02.2024%2006%3A48%3A02> <tag:stardog:designer:Serious_Game:model:Date> "11.02.2024 06:48:02" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:11.02.2024%2007%3A05%3A59> <tag:stardog:designer:Serious_Game:model:Date> "11.02.2024 07:05:59" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:11.02.2024%2007%3A12%3A41> <tag:stardog:designer:Serious_Game:model:Date> "11.02.2024 07:12:41" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:11.02.2024%2007%3A21%3A25> <tag:stardog:designer:Serious_Game:model:Date> "11.02.2024 07:21:25" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:11.02.2024%2007%3A24%3A57> <tag:stardog:designer:Serious_Game:model:Date> "11.02.2024 07:24:57" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:14.02.2024%2006%3A53%3A13> <tag:stardog:designer:Serious_Game:model:Date> "14.02.2024 06:53:13" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:14.02.2024%2006%3A54%3A34> <tag:stardog:designer:Serious_Game:model:Date> "14.02.2024 06:54:34" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:21.02.2024%2008%3A53%3A55> <tag:stardog:designer:Serious_Game:model:Date> "21.02.2024 08:53:55" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:21.02.2024%2009%3A00%3A17> <tag:stardog:designer:Serious_Game:model:Date> "21.02.2024 09:00:17" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:21.02.2024%2009%3A01%3A06> <tag:stardog:designer:Serious_Game:model:Date> "21.02.2024 09:01:06" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:21.02.2024%2009%3A07%3A49> <tag:stardog:designer:Serious_Game:model:Date> "21.02.2024 09:07:49" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:21.02.2024%2009%3A33%3A25> <tag:stardog:designer:Serious_Game:model:Date> "21.02.2024 09:33:25" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:26.02.2024%2012%3A41%3A37> <tag:stardog:designer:Serious_Game:model:Date> "26.02.2024 12:41:37" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:27.02.2024%2007%3A24%3A06> <tag:stardog:designer:Serious_Game:model:Date> "27.02.2024 07:24:06" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:27.02.2024%2007%3A28%3A31> <tag:stardog:designer:Serious_Game:model:Date> "27.02.2024 07:28:31" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:27.02.2024%2007%3A38%3A49> <tag:stardog:designer:Serious_Game:model:Date> "27.02.2024 07:38:49" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:6.04.2024%2009%3A55%3A41> <tag:stardog:designer:Serious_Game:model:Date> "6.04.2024 09:55:41" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:6.04.2024%2009%3A56%3A56> <tag:stardog:designer:Serious_Game:model:Date> "6.04.2024 09:56:56" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:9.04.2024%2007%3A13%3A05> <tag:stardog:designer:Serious_Game:model:Date> "9.04.2024 07:13:05" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:9.04.2024%2007%3A18%3A57> <tag:stardog:designer:Serious_Game:model:Date> "9.04.2024 07:18:57" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:20.04.2024%2008%3A02%3A02> <tag:stardog:designer:Serious_Game:model:Date> "20.04.2024 08:02:02" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:20.04.2024%2010%3A29%3A04> <tag:stardog:designer:Serious_Game:model:Date> "20.04.2024 10:29:04" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:20.04.2024%2010%3A45%3A12> <tag:stardog:designer:Serious_Game:model:Date> "20.04.2024 10:45:12" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:4.05.2024%2008%3A22%3A18> <tag:stardog:designer:Serious_Game:model:Date> "4.05.2024 08:22:18" .
+<tag:stardog:designer:Serious_Game:data:Therapist_PatientsDB.Therapist_PatientsCollection:1> <tag:stardog:designer:Serious_Game:model:dateint> 2023 .
+<tag:stardog:designer:Serious_Game:data:Therapist_PatientsDB.Therapist_PatientsCollection:2> <tag:stardog:designer:Serious_Game:model:dateint> 2023 .
+<tag:stardog:designer:Serious_Game:data:Therapist_PatientsDB.Therapist_PatientsCollection:3> <tag:stardog:designer:Serious_Game:model:dateint> 2022 .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:6.04.2024%2009%3A55%3A41> <tag:stardog:designer:Serious_Game:model:duration> "0.6438202261924744" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:6.04.2024%2009%3A56%3A56> <tag:stardog:designer:Serious_Game:model:duration> "0.8110286593437195" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:9.04.2024%2007%3A13%3A05> <tag:stardog:designer:Serious_Game:model:duration> "0.513367235660553" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:9.04.2024%2007%3A18%3A57> <tag:stardog:designer:Serious_Game:model:duration> "0" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:20.04.2024%2008%3A02%3A02> <tag:stardog:designer:Serious_Game:model:duration> "0.5575716495513916" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:20.04.2024%2010%3A29%3A04> <tag:stardog:designer:Serious_Game:model:duration> "0" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:20.04.2024%2010%3A45%3A12> <tag:stardog:designer:Serious_Game:model:duration> "0.38779667019844055" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:4.05.2024%2008%3A22%3A18> <tag:stardog:designer:Serious_Game:model:duration> "0.3199329078197479" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:11.02.2024%2006%3A40%3A00> <tag:stardog:designer:Serious_Game:model:gamePlayed> "Uzay Macerası:Kurtarma Görevi" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:11.02.2024%2006%3A48%3A02> <tag:stardog:designer:Serious_Game:model:gamePlayed> "Uzay Macerası:Kurtarma Görevi" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:11.02.2024%2007%3A05%3A59> <tag:stardog:designer:Serious_Game:model:gamePlayed> "Uzay Macerası:Kurtarma Görevi" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:11.02.2024%2007%3A12%3A41> <tag:stardog:designer:Serious_Game:model:gamePlayed> "Uzay Macerası:Kurtarma Görevi" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:11.02.2024%2007%3A21%3A25> <tag:stardog:designer:Serious_Game:model:gamePlayed> "Uzay Macerası:Kurtarma Görevi" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:11.02.2024%2007%3A24%3A57> <tag:stardog:designer:Serious_Game:model:gamePlayed> "Uzay Macerası:Kurtarma Görevi" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:14.02.2024%2006%3A53%3A13> <tag:stardog:designer:Serious_Game:model:gamePlayed> "Uzay Macerası:Roket Karmaşası" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:14.02.2024%2006%3A54%3A34> <tag:stardog:designer:Serious_Game:model:gamePlayed> "Uzay Macerası:Roket Karmaşası" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:21.02.2024%2008%3A53%3A55> <tag:stardog:designer:Serious_Game:model:gamePlayed> "Uzay Macerası:Kurtarma Görevi" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:21.02.2024%2009%3A00%3A17> <tag:stardog:designer:Serious_Game:model:gamePlayed> "Uzay Macerası:Kurtarma Görevi" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:21.02.2024%2009%3A01%3A06> <tag:stardog:designer:Serious_Game:model:gamePlayed> "Uzay Macerası:Kurtarma Görevi" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:21.02.2024%2009%3A07%3A49> <tag:stardog:designer:Serious_Game:model:gamePlayed> "Uzay Macerası:Roket Karmaşası" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:21.02.2024%2009%3A33%3A25> <tag:stardog:designer:Serious_Game:model:gamePlayed> "Uzay Macerası:Roket Karmaşası" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:26.02.2024%2012%3A41%3A37> <tag:stardog:designer:Serious_Game:model:gamePlayed> "Uzay Macerası:Roket Karmaşası" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:27.02.2024%2007%3A24%3A06> <tag:stardog:designer:Serious_Game:model:gamePlayed> "Uzay Macerası:Roket Karmaşası" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:27.02.2024%2007%3A28%3A31> <tag:stardog:designer:Serious_Game:model:gamePlayed> "Uzay Macerası:Roket Karmaşası" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:27.02.2024%2007%3A38%3A49> <tag:stardog:designer:Serious_Game:model:gamePlayed> "Uzay Macerası:Roket Karmaşası" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:6.04.2024%2009%3A55%3A41> <tag:stardog:designer:Serious_Game:model:gamePlayed> "Uzay Macerası:Meteor Yolculuğu" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:6.04.2024%2009%3A56%3A56> <tag:stardog:designer:Serious_Game:model:gamePlayed> "Uzay Macerası:Meteor Yolculuğu" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:9.04.2024%2007%3A13%3A05> <tag:stardog:designer:Serious_Game:model:gamePlayed> "Uzay Macerası:Meteor Yolculuğu" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:9.04.2024%2007%3A18%3A57> <tag:stardog:designer:Serious_Game:model:gamePlayed> "Uzay Macerası:Kurtarma Görevi" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:20.04.2024%2008%3A02%3A02> <tag:stardog:designer:Serious_Game:model:gamePlayed> "Uzay Macerası:Meteor Yolculuğu" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:20.04.2024%2010%3A29%3A04> <tag:stardog:designer:Serious_Game:model:gamePlayed> "Uzay Macerası:Kurtarma Görevi" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:20.04.2024%2010%3A45%3A12> <tag:stardog:designer:Serious_Game:model:gamePlayed> "Uzay Macerası:Kurtarma Görevi" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:4.05.2024%2008%3A22%3A18> <tag:stardog:designer:Serious_Game:model:gamePlayed> "Uzay Macerası:Kurtarma Görevi" .
+<tag:stardog:designer:Serious_Game:data:Therapist_PatientsDB.Therapist_PatientsCollection:1> <tag:stardog:designer:Serious_Game:model:gender> "Erkek" .
+<tag:stardog:designer:Serious_Game:data:Therapist_PatientsDB.Therapist_PatientsCollection:2> <tag:stardog:designer:Serious_Game:model:gender> "Erkek" .
+<tag:stardog:designer:Serious_Game:data:Therapist_PatientsDB.Therapist_PatientsCollection:3> <tag:stardog:designer:Serious_Game:model:gender> "Kadın" .
+<tag:stardog:designer:Serious_Game:data:Therapist_PatientsDB.Therapist_PatientsCollection:1> <tag:stardog:designer:Serious_Game:model:height> 154 .
+<tag:stardog:designer:Serious_Game:data:Therapist_PatientsDB.Therapist_PatientsCollection:2> <tag:stardog:designer:Serious_Game:model:height> 124 .
+<tag:stardog:designer:Serious_Game:data:Therapist_PatientsDB.Therapist_PatientsCollection:3> <tag:stardog:designer:Serious_Game:model:height> 141 .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:11.02.2024%2006%3A40%3A00> <tag:stardog:designer:Serious_Game:model:param1> "1" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:11.02.2024%2006%3A48%3A02> <tag:stardog:designer:Serious_Game:model:param1> "0.0731084868311882" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:11.02.2024%2007%3A05%3A59> <tag:stardog:designer:Serious_Game:model:param1> "0.0926891341805458" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:11.02.2024%2007%3A12%3A41> <tag:stardog:designer:Serious_Game:model:param1> "0" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:11.02.2024%2007%3A21%3A25> <tag:stardog:designer:Serious_Game:model:param1> "0.0731084868311882" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:11.02.2024%2007%3A24%3A57> <tag:stardog:designer:Serious_Game:model:param1> "0" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:14.02.2024%2006%3A53%3A13> <tag:stardog:designer:Serious_Game:model:param1> "1" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:14.02.2024%2006%3A54%3A34> <tag:stardog:designer:Serious_Game:model:param1> "0.6700000166893005" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:21.02.2024%2008%3A53%3A55> <tag:stardog:designer:Serious_Game:model:param1> "1" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:21.02.2024%2009%3A00%3A17> <tag:stardog:designer:Serious_Game:model:param1> "1" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:21.02.2024%2009%3A01%3A06> <tag:stardog:designer:Serious_Game:model:param1> "1" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:21.02.2024%2009%3A07%3A49> <tag:stardog:designer:Serious_Game:model:param1> "0.6600000262260437" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:21.02.2024%2009%3A33%3A25> <tag:stardog:designer:Serious_Game:model:param1> "1" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:26.02.2024%2012%3A41%3A37> <tag:stardog:designer:Serious_Game:model:param1> "1" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:27.02.2024%2007%3A24%3A06> <tag:stardog:designer:Serious_Game:model:param1> "0" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:27.02.2024%2007%3A28%3A31> <tag:stardog:designer:Serious_Game:model:param1> "0.84" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:27.02.2024%2007%3A38%3A49> <tag:stardog:designer:Serious_Game:model:param1> "0.8979591727256775" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:6.04.2024%2009%3A55%3A41> <tag:stardog:designer:Serious_Game:model:param1> "0.8792872428894043" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:6.04.2024%2009%3A56%3A56> <tag:stardog:designer:Serious_Game:model:param1> "1" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:9.04.2024%2007%3A13%3A05> <tag:stardog:designer:Serious_Game:model:param1> "0.7497745752334595" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:9.04.2024%2007%3A18%3A57> <tag:stardog:designer:Serious_Game:model:param1> "0.4645111560821533" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:20.04.2024%2008%3A02%3A02> <tag:stardog:designer:Serious_Game:model:param1> "0.7167537212371826" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:20.04.2024%2010%3A29%3A04> <tag:stardog:designer:Serious_Game:model:param1> "0.7142857313156128" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:20.04.2024%2010%3A45%3A12> <tag:stardog:designer:Serious_Game:model:param1> "0.7142857313156128" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:4.05.2024%2008%3A22%3A18> <tag:stardog:designer:Serious_Game:model:param1> "0" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:11.02.2024%2006%3A40%3A00> <tag:stardog:designer:Serious_Game:model:param2> "0.09216762334108353" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:11.02.2024%2006%3A48%3A02> <tag:stardog:designer:Serious_Game:model:param2> "0.0365542434155941" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:11.02.2024%2007%3A05%3A59> <tag:stardog:designer:Serious_Game:model:param2> "0.5" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:11.02.2024%2007%3A12%3A41> <tag:stardog:designer:Serious_Game:model:param2> "0.5" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:11.02.2024%2007%3A21%3A25> <tag:stardog:designer:Serious_Game:model:param2> "0.9912524819374084" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:11.02.2024%2007%3A24%3A57> <tag:stardog:designer:Serious_Game:model:param2> "1" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:14.02.2024%2006%3A53%3A13> <tag:stardog:designer:Serious_Game:model:param2> "0.5" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:14.02.2024%2006%3A54%3A34> <tag:stardog:designer:Serious_Game:model:param2> "0.5" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:21.02.2024%2008%3A53%3A55> <tag:stardog:designer:Serious_Game:model:param2> "0.5" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:21.02.2024%2009%3A00%3A17> <tag:stardog:designer:Serious_Game:model:param2> "0.5" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:21.02.2024%2009%3A01%3A06> <tag:stardog:designer:Serious_Game:model:param2> "0.5" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:21.02.2024%2009%3A07%3A49> <tag:stardog:designer:Serious_Game:model:param2> "0.5" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:21.02.2024%2009%3A33%3A25> <tag:stardog:designer:Serious_Game:model:param2> "0.5" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:26.02.2024%2012%3A41%3A37> <tag:stardog:designer:Serious_Game:model:param2> "0.2857142984867096" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:27.02.2024%2007%3A24%3A06> <tag:stardog:designer:Serious_Game:model:param2> "0.2857142984867096" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:27.02.2024%2007%3A28%3A31> <tag:stardog:designer:Serious_Game:model:param2> "0.2857142984867096" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:27.02.2024%2007%3A38%3A49> <tag:stardog:designer:Serious_Game:model:param2> "0.2857142984867096" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:6.04.2024%2009%3A55%3A41> <tag:stardog:designer:Serious_Game:model:param2> "0.9255418181419373" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:6.04.2024%2009%3A56%3A56> <tag:stardog:designer:Serious_Game:model:param2> "1" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:9.04.2024%2007%3A13%3A05> <tag:stardog:designer:Serious_Game:model:param2> "0.2779780924320221" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:9.04.2024%2007%3A18%3A57> <tag:stardog:designer:Serious_Game:model:param2> "0.7295364141464233" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:20.04.2024%2008%3A02%3A02> <tag:stardog:designer:Serious_Game:model:param2> "0.6631549000740051" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:20.04.2024%2010%3A29%3A04> <tag:stardog:designer:Serious_Game:model:param2> "0.33174729347229004" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:20.04.2024%2010%3A45%3A12> <tag:stardog:designer:Serious_Game:model:param2> "0.5352673530578613" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:4.05.2024%2008%3A22%3A18> <tag:stardog:designer:Serious_Game:model:param2> "0.8775510191917419" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:11.02.2024%2006%3A40%3A00> <tag:stardog:designer:Serious_Game:model:param3> "0" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:11.02.2024%2006%3A48%3A02> <tag:stardog:designer:Serious_Game:model:param3> "0" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:11.02.2024%2007%3A05%3A59> <tag:stardog:designer:Serious_Game:model:param3> "1" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:11.02.2024%2007%3A12%3A41> <tag:stardog:designer:Serious_Game:model:param3> "1" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:11.02.2024%2007%3A21%3A25> <tag:stardog:designer:Serious_Game:model:param3> "1" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:11.02.2024%2007%3A24%3A57> <tag:stardog:designer:Serious_Game:model:param3> "1" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:14.02.2024%2006%3A53%3A13> <tag:stardog:designer:Serious_Game:model:param3> "0" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:14.02.2024%2006%3A54%3A34> <tag:stardog:designer:Serious_Game:model:param3> "0" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:21.02.2024%2008%3A53%3A55> <tag:stardog:designer:Serious_Game:model:param3> "1" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:21.02.2024%2009%3A00%3A17> <tag:stardog:designer:Serious_Game:model:param3> "1" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:21.02.2024%2009%3A01%3A06> <tag:stardog:designer:Serious_Game:model:param3> "1" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:21.02.2024%2009%3A07%3A49> <tag:stardog:designer:Serious_Game:model:param3> "0" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:21.02.2024%2009%3A33%3A25> <tag:stardog:designer:Serious_Game:model:param3> "0" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:26.02.2024%2012%3A41%3A37> <tag:stardog:designer:Serious_Game:model:param3> "0.3499999940395355" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:27.02.2024%2007%3A24%3A06> <tag:stardog:designer:Serious_Game:model:param3> "0.3499999940395355" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:27.02.2024%2007%3A28%3A31> <tag:stardog:designer:Serious_Game:model:param3> "0.3499999940395355" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:27.02.2024%2007%3A38%3A49> <tag:stardog:designer:Serious_Game:model:param3> "0.3499999940395355" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:6.04.2024%2009%3A55%3A41> <tag:stardog:designer:Serious_Game:model:param3> "0.5" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:6.04.2024%2009%3A56%3A56> <tag:stardog:designer:Serious_Game:model:param3> "0.26872727274894714" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:9.04.2024%2007%3A13%3A05> <tag:stardog:designer:Serious_Game:model:param3> "0.5" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:9.04.2024%2007%3A18%3A57> <tag:stardog:designer:Serious_Game:model:param3> "1" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:20.04.2024%2008%3A02%3A02> <tag:stardog:designer:Serious_Game:model:param3> "0.27865070104599" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:20.04.2024%2010%3A29%3A04> <tag:stardog:designer:Serious_Game:model:param3> "1" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:20.04.2024%2010%3A45%3A12> <tag:stardog:designer:Serious_Game:model:param3> "1" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:4.05.2024%2008%3A22%3A18> <tag:stardog:designer:Serious_Game:model:param3> "1" .
+<tag:stardog:designer:Serious_Game:data:TherapistInfoDB.TherapistInfoCollection:62af0393e60e99e2b3269850> <tag:stardog:designer:Serious_Game:model:password> "1234567" .
+<tag:stardog:designer:Serious_Game:data:TherapistInfoDB.TherapistInfoCollection:64a7d9d418d1fea2ae998234> <tag:stardog:designer:Serious_Game:model:password> "asdaf" .
+<tag:stardog:designer:Serious_Game:data:Therapist_PatientsDB.Therapist_PatientsCollection:1> <tag:stardog:designer:Serious_Game:model:patient_id> 1 , 1 .
+<tag:stardog:designer:Serious_Game:data:Therapist_PatientsDB.Therapist_PatientsCollection:2> <tag:stardog:designer:Serious_Game:model:patient_id> 2 , 2 .
+<tag:stardog:designer:Serious_Game:data:Therapist_PatientsDB.Therapist_PatientsCollection:3> <tag:stardog:designer:Serious_Game:model:patient_id> 3 , 3 .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:6.04.2024%2009%3A55%3A41> <tag:stardog:designer:Serious_Game:model:smoothness> "0.8994245529174805" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:6.04.2024%2009%3A56%3A56> <tag:stardog:designer:Serious_Game:model:smoothness> "0.6076265573501587" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:9.04.2024%2007%3A13%3A05> <tag:stardog:designer:Serious_Game:model:smoothness> "0.8901576995849609" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:9.04.2024%2007%3A18%3A57> <tag:stardog:designer:Serious_Game:model:smoothness> "0" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:20.04.2024%2008%3A02%3A02> <tag:stardog:designer:Serious_Game:model:smoothness> "0.5906570553779602" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:20.04.2024%2010%3A29%3A04> <tag:stardog:designer:Serious_Game:model:smoothness> "0.8005045652389526" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:20.04.2024%2010%3A45%3A12> <tag:stardog:designer:Serious_Game:model:smoothness> "0.8014956712722778" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:4.05.2024%2008%3A22%3A18> <tag:stardog:designer:Serious_Game:model:smoothness> "0.7871431112289429" .
+<tag:stardog:designer:Serious_Game:data:Therapist_PatientsDB.Therapist_PatientsCollection:1> <tag:stardog:designer:Serious_Game:model:special_need> "Serebral Palsi" , "Serebral Palsi" .
+<tag:stardog:designer:Serious_Game:data:Therapist_PatientsDB.Therapist_PatientsCollection:2> <tag:stardog:designer:Serious_Game:model:special_need> "Serebral Palsi" , "A" .
+<tag:stardog:designer:Serious_Game:data:Therapist_PatientsDB.Therapist_PatientsCollection:3> <tag:stardog:designer:Serious_Game:model:special_need> "Serebral Palsi" , "AA" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:6.04.2024%2009%3A55%3A41> <tag:stardog:designer:Serious_Game:model:steadiness> "0.6358957886695862" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:6.04.2024%2009%3A56%3A56> <tag:stardog:designer:Serious_Game:model:steadiness> "0.6524953246116638" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:9.04.2024%2007%3A13%3A05> <tag:stardog:designer:Serious_Game:model:steadiness> "0.5508754849433899" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:9.04.2024%2007%3A18%3A57> <tag:stardog:designer:Serious_Game:model:steadiness> "0" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:20.04.2024%2008%3A02%3A02> <tag:stardog:designer:Serious_Game:model:steadiness> "0.5500708222389221" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:20.04.2024%2010%3A29%3A04> <tag:stardog:designer:Serious_Game:model:steadiness> "0" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:20.04.2024%2010%3A45%3A12> <tag:stardog:designer:Serious_Game:model:steadiness> "0" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:4.05.2024%2008%3A22%3A18> <tag:stardog:designer:Serious_Game:model:steadiness> "0.7953173518180847" .
+<tag:stardog:designer:Serious_Game:data:Therapist_PatientsDB.Therapist_PatientsCollection:1> <tag:stardog:designer:Serious_Game:model:therapist_username> "Arca Özkan" .
+<tag:stardog:designer:Serious_Game:data:Therapist_PatientsDB.Therapist_PatientsCollection:2> <tag:stardog:designer:Serious_Game:model:therapist_username> "Arca Özkan" .
+<tag:stardog:designer:Serious_Game:data:Therapist_PatientsDB.Therapist_PatientsCollection:3> <tag:stardog:designer:Serious_Game:model:therapist_username> "Esra Erdem" .
+<tag:stardog:designer:Serious_Game:data:TherapistInfoDB.TherapistInfoCollection:62af0393e60e99e2b3269850> <tag:stardog:designer:Serious_Game:model:therapist_username_1> "Esra Erdem" .
+<tag:stardog:designer:Serious_Game:data:TherapistInfoDB.TherapistInfoCollection:64a7d9d418d1fea2ae998234> <tag:stardog:designer:Serious_Game:model:therapist_username_1> "Arca Özkan" .
+<tag:stardog:designer:Serious_Game:data:Therapist_PatientsDB.Therapist_PatientsCollection:1> <tag:stardog:designer:Serious_Game:model:therapy_start_date> "26.06.2023 14:54:29" .
+<tag:stardog:designer:Serious_Game:data:Therapist_PatientsDB.Therapist_PatientsCollection:2> <tag:stardog:designer:Serious_Game:model:therapy_start_date> "7.07.2023 14:54:29" .
+<tag:stardog:designer:Serious_Game:data:Therapist_PatientsDB.Therapist_PatientsCollection:3> <tag:stardog:designer:Serious_Game:model:therapy_start_date> "6.07.2022 14:54:29" .
+<tag:stardog:designer:Serious_Game:data:Therapist_PatientsDB.Therapist_PatientsCollection:1> <tag:stardog:designer:Serious_Game:model:therapy_type> "Uzanma" .
+<tag:stardog:designer:Serious_Game:data:Therapist_PatientsDB.Therapist_PatientsCollection:2> <tag:stardog:designer:Serious_Game:model:therapy_type> "B" .
+<tag:stardog:designer:Serious_Game:data:Therapist_PatientsDB.Therapist_PatientsCollection:3> <tag:stardog:designer:Serious_Game:model:therapy_type> "BB" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:11.02.2024%2006%3A40%3A00> <tag:stardog:designer:Serious_Game:model:time> "19.48199462890625" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:11.02.2024%2006%3A48%3A02> <tag:stardog:designer:Serious_Game:model:time> "27.296405792236328" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:11.02.2024%2007%3A05%3A59> <tag:stardog:designer:Serious_Game:model:time> "23.111787796020508" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:11.02.2024%2007%3A12%3A41> <tag:stardog:designer:Serious_Game:model:time> "39.59523391723633" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:11.02.2024%2007%3A21%3A25> <tag:stardog:designer:Serious_Game:model:time> "28.553930282592773" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:11.02.2024%2007%3A24%3A57> <tag:stardog:designer:Serious_Game:model:time> "28.71198272705078" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:14.02.2024%2006%3A53%3A13> <tag:stardog:designer:Serious_Game:model:time> "20.25372886657715" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:14.02.2024%2006%3A54%3A34> <tag:stardog:designer:Serious_Game:model:time> "27.84119987487793" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:21.02.2024%2008%3A53%3A55> <tag:stardog:designer:Serious_Game:model:time> "32.778804779052734" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:21.02.2024%2009%3A00%3A17> <tag:stardog:designer:Serious_Game:model:time> "24.61392593383789" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:21.02.2024%2009%3A01%3A06> <tag:stardog:designer:Serious_Game:model:time> "30.909818649291992" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:21.02.2024%2009%3A07%3A49> <tag:stardog:designer:Serious_Game:model:time> "31.678539276123047" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:21.02.2024%2009%3A33%3A25> <tag:stardog:designer:Serious_Game:model:time> "20.65916633605957" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:26.02.2024%2012%3A41%3A37> <tag:stardog:designer:Serious_Game:model:time> "32.75675964355469" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:27.02.2024%2007%3A24%3A06> <tag:stardog:designer:Serious_Game:model:time> "18.23590850830078" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:27.02.2024%2007%3A28%3A31> <tag:stardog:designer:Serious_Game:model:time> "38.88466262817383" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:27.02.2024%2007%3A38%3A49> <tag:stardog:designer:Serious_Game:model:time> "60.002197265625" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:6.04.2024%2009%3A55%3A41> <tag:stardog:designer:Serious_Game:model:time> "33.210941314697266" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:6.04.2024%2009%3A56%3A56> <tag:stardog:designer:Serious_Game:model:time> "22.271484375" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:9.04.2024%2007%3A13%3A05> <tag:stardog:designer:Serious_Game:model:time> "42.6185302734375" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:9.04.2024%2007%3A18%3A57> <tag:stardog:designer:Serious_Game:model:time> "109.58880615234375" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:20.04.2024%2008%3A02%3A02> <tag:stardog:designer:Serious_Game:model:time> "70.31941986083984" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:20.04.2024%2010%3A29%3A04> <tag:stardog:designer:Serious_Game:model:time> "48.42952346801758" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:20.04.2024%2010%3A45%3A12> <tag:stardog:designer:Serious_Game:model:time> "47.249149322509766" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:4.05.2024%2008%3A22%3A18> <tag:stardog:designer:Serious_Game:model:time> "60.00255584716797" .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:11.02.2024%2006%3A40%3A00> <tag:stardog:designer:Serious_Game:model:userID> 1 .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:11.02.2024%2006%3A48%3A02> <tag:stardog:designer:Serious_Game:model:userID> 1 .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:11.02.2024%2007%3A05%3A59> <tag:stardog:designer:Serious_Game:model:userID> 1 .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:11.02.2024%2007%3A12%3A41> <tag:stardog:designer:Serious_Game:model:userID> 1 .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:11.02.2024%2007%3A21%3A25> <tag:stardog:designer:Serious_Game:model:userID> 1 .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:11.02.2024%2007%3A24%3A57> <tag:stardog:designer:Serious_Game:model:userID> 1 .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:14.02.2024%2006%3A53%3A13> <tag:stardog:designer:Serious_Game:model:userID> 1 .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:14.02.2024%2006%3A54%3A34> <tag:stardog:designer:Serious_Game:model:userID> 1 .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:21.02.2024%2008%3A53%3A55> <tag:stardog:designer:Serious_Game:model:userID> 1 .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:21.02.2024%2009%3A00%3A17> <tag:stardog:designer:Serious_Game:model:userID> 1 .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:21.02.2024%2009%3A01%3A06> <tag:stardog:designer:Serious_Game:model:userID> 1 .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:21.02.2024%2009%3A07%3A49> <tag:stardog:designer:Serious_Game:model:userID> 1 .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:21.02.2024%2009%3A33%3A25> <tag:stardog:designer:Serious_Game:model:userID> 2 .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:26.02.2024%2012%3A41%3A37> <tag:stardog:designer:Serious_Game:model:userID> 2 .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:27.02.2024%2007%3A24%3A06> <tag:stardog:designer:Serious_Game:model:userID> 2 .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:27.02.2024%2007%3A28%3A31> <tag:stardog:designer:Serious_Game:model:userID> 2 .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:27.02.2024%2007%3A38%3A49> <tag:stardog:designer:Serious_Game:model:userID> 2 .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:6.04.2024%2009%3A55%3A41> <tag:stardog:designer:Serious_Game:model:userID> 1 .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:6.04.2024%2009%3A56%3A56> <tag:stardog:designer:Serious_Game:model:userID> 1 .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:9.04.2024%2007%3A13%3A05> <tag:stardog:designer:Serious_Game:model:userID> 1 .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:9.04.2024%2007%3A18%3A57> <tag:stardog:designer:Serious_Game:model:userID> 1 .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:20.04.2024%2008%3A02%3A02> <tag:stardog:designer:Serious_Game:model:userID> 1 .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:20.04.2024%2010%3A29%3A04> <tag:stardog:designer:Serious_Game:model:userID> 1 .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:20.04.2024%2010%3A45%3A12> <tag:stardog:designer:Serious_Game:model:userID> 1 .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:4.05.2024%2008%3A22%3A18> <tag:stardog:designer:Serious_Game:model:userID> 1 .
+<tag:stardog:designer:Serious_Game:data:Therapist_PatientsDB.Therapist_PatientsCollection:1> <tag:stardog:designer:Serious_Game:model:weight> 61 .
+<tag:stardog:designer:Serious_Game:data:Therapist_PatientsDB.Therapist_PatientsCollection:2> <tag:stardog:designer:Serious_Game:model:weight> 64 .
+<tag:stardog:designer:Serious_Game:data:Therapist_PatientsDB.Therapist_PatientsCollection:3> <tag:stardog:designer:Serious_Game:model:weight> 54 .
+<tag:stardog:designer:Serious_Game:model> <https://schema.org/datePublished> "2024-06-25T08:46:53.153Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<tag:stardog:designer:Serious_Game:data:TherapistInfoDB.TherapistInfoCollection> <https://schema.org/datePublished> "2024-06-25T08:46:53.153Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<tag:stardog:designer:Serious_Game:data:Therapist_PatientsDB.Therapist_PatientsCollection> <https://schema.org/datePublished> "2024-06-25T08:46:53.153Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<tag:stardog:designer:Serious_Game:data:save_2> <https://schema.org/datePublished> "2024-06-25T08:46:53.153Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection> <https://schema.org/datePublished> "2024-06-25T08:46:53.153Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<tag:stardog:designer:Serious_Game:data:GamesDB.GamesCollection> <https://schema.org/datePublished> "2024-06-25T08:46:53.153Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<tag:stardog:designer:Serious_Game:data:Therapist_PatientsDB.Therapist_PatientsCollection:1> <tag:stardog:designer:Serious_Game:model:plays_game> <tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:11.02.2024%2006%3A40%3A00> , <tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:11.02.2024%2006%3A48%3A02> , <tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:11.02.2024%2007%3A05%3A59> , <tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:11.02.2024%2007%3A12%3A41> , <tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:11.02.2024%2007%3A21%3A25> , <tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:11.02.2024%2007%3A24%3A57> , <tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:14.02.2024%2006%3A53%3A13> , <tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:14.02.2024%2006%3A54%3A34> , <tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:21.02.2024%2008%3A53%3A55> , <tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:21.02.2024%2009%3A00%3A17> , <tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:21.02.2024%2009%3A01%3A06> , <tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:21.02.2024%2009%3A07%3A49> , <tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:6.04.2024%2009%3A55%3A41> , <tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:6.04.2024%2009%3A56%3A56> , <tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:9.04.2024%2007%3A13%3A05> , <tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:9.04.2024%2007%3A18%3A57> , <tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:20.04.2024%2008%3A02%3A02> , <tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:20.04.2024%2010%3A29%3A04> , <tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:20.04.2024%2010%3A45%3A12> , <tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:4.05.2024%2008%3A22%3A18> , <tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:1> .
+<tag:stardog:designer:Serious_Game:data:Therapist_PatientsDB.Therapist_PatientsCollection:2> <tag:stardog:designer:Serious_Game:model:plays_game> <tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:21.02.2024%2009%3A33%3A25> , <tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:26.02.2024%2012%3A41%3A37> , <tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:27.02.2024%2007%3A24%3A06> , <tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:27.02.2024%2007%3A28%3A31> , <tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:27.02.2024%2007%3A38%3A49> , <tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:2> .
+<tag:stardog:designer:Serious_Game:data:Therapist_PatientsDB.Therapist_PatientsCollection:3> <tag:stardog:designer:Serious_Game:model:plays_game> <tag:stardog:designer:Serious_Game:data:PatientGameDB.PatientGameCollection:3> .
+<tag:stardog:designer:Serious_Game:data:TherapistInfoDB.TherapistInfoCollection:62af0393e60e99e2b3269850> <tag:stardog:designer:Serious_Game:model:treats> <tag:stardog:designer:Serious_Game:data:Therapist_PatientsDB.Therapist_PatientsCollection:Esra%20Erdem> .
+<tag:stardog:designer:Serious_Game:data:TherapistInfoDB.TherapistInfoCollection:64a7d9d418d1fea2ae998234> <tag:stardog:designer:Serious_Game:model:treats> <tag:stardog:designer:Serious_Game:data:Therapist_PatientsDB.Therapist_PatientsCollection:Arca%20%C3%96zkan> .
+<tag:stardog:designer:Serious_Game:data:TherapistInfoDB.TherapistInfoCollection:Arca%20%C3%96zkan> <tag:stardog:designer:Serious_Game:model:treats> <tag:stardog:designer:Serious_Game:data:Therapist_PatientsDB.Therapist_PatientsCollection:1> , <tag:stardog:designer:Serious_Game:data:Therapist_PatientsDB.Therapist_PatientsCollection:2> .
+<tag:stardog:designer:Serious_Game:data:TherapistInfoDB.TherapistInfoCollection:Esra%20Erdem> <tag:stardog:designer:Serious_Game:model:treats> <tag:stardog:designer:Serious_Game:data:Therapist_PatientsDB.Therapist_PatientsCollection:3> .
+<tag:stardog:designer:Serious_Game:data:GamesDB.GamesCollection:Uzay%20Maceras%C4%B1%3AMeteor%20Yolculu%C4%9Fu> <tag:stardog:designer:Serious_Game:model:developer> "Arca Özkan" .
+<tag:stardog:designer:Serious_Game:data:GamesDB.GamesCollection:Hedef%20Vurmaca> <tag:stardog:designer:Serious_Game:model:developer> "Serra Yılmaz" .
+<tag:stardog:designer:Serious_Game:data:GamesDB.GamesCollection:Uzay%20Maceras%C4%B1%3A%20Kurtarma%20G%C3%B6revi> <tag:stardog:designer:Serious_Game:model:developer> "Arca Özkan" .
+<tag:stardog:designer:Serious_Game:data:GamesDB.GamesCollection:Uzay%20Maceras%C4%B1%3A%20Roket%20Karma%C5%9Fas%C4%B1> <tag:stardog:designer:Serious_Game:model:developer> "Arca Özkan" .
+<tag:stardog:designer:Serious_Game:data:GamesDB.GamesCollection:Uzay%20Maceras%C4%B1%3AMeteor%20Yolculu%C4%9Fu> <tag:stardog:designer:Serious_Game:model:goal_of_game> "Save aliens by catching them with a spaceship while avoiding meteors." .
+<tag:stardog:designer:Serious_Game:data:GamesDB.GamesCollection:Hedef%20Vurmaca> <tag:stardog:designer:Serious_Game:model:goal_of_game> "Hit targets accurately" .
+<tag:stardog:designer:Serious_Game:data:GamesDB.GamesCollection:Uzay%20Maceras%C4%B1%3A%20Kurtarma%20G%C3%B6revi> <tag:stardog:designer:Serious_Game:model:goal_of_game> "Save aliens by catching and dropping them of planets that match their color" .
+<tag:stardog:designer:Serious_Game:data:GamesDB.GamesCollection:Uzay%20Maceras%C4%B1%3A%20Roket%20Karma%C5%9Fas%C4%B1> <tag:stardog:designer:Serious_Game:model:goal_of_game> "Save aliens by catching and dropping them of to rockets that have the solution to their mathematical equations" .
+<tag:stardog:designer:Serious_Game:data:GamesDB.GamesCollection:Uzay%20Maceras%C4%B1%3AMeteor%20Yolculu%C4%9Fu> <tag:stardog:designer:Serious_Game:model:name> "Uzay Macerası:Meteor Yolculuğu" .
+<tag:stardog:designer:Serious_Game:data:GamesDB.GamesCollection:Hedef%20Vurmaca> <tag:stardog:designer:Serious_Game:model:name> "Hedef Vurmaca" .
+<tag:stardog:designer:Serious_Game:data:GamesDB.GamesCollection:Uzay%20Maceras%C4%B1%3A%20Kurtarma%20G%C3%B6revi> <tag:stardog:designer:Serious_Game:model:name> "Uzay Macerası: Kurtarma Görevi" .
+<tag:stardog:designer:Serious_Game:data:GamesDB.GamesCollection:Uzay%20Maceras%C4%B1%3A%20Roket%20Karma%C5%9Fas%C4%B1> <tag:stardog:designer:Serious_Game:model:name> "Uzay Macerası: Roket Karmaşası" .
+<tag:stardog:designer:Serious_Game:data:GamesDB.GamesCollection:Uzay%20Maceras%C4%B1%3AMeteor%20Yolculu%C4%9Fu> <tag:stardog:designer:Serious_Game:model:parameters> "speed_left,speed_right,size" .
+<tag:stardog:designer:Serious_Game:data:GamesDB.GamesCollection:Uzay%20Maceras%C4%B1%3A%20Kurtarma%20G%C3%B6revi> <tag:stardog:designer:Serious_Game:model:parameters> "alien_catch_time,disappear_time,color_help" .
+<tag:stardog:designer:Serious_Game:data:GamesDB.GamesCollection:Uzay%20Maceras%C4%B1%3A%20Roket%20Karma%C5%9Fas%C4%B1> <tag:stardog:designer:Serious_Game:model:parameters> "alien_catch_time,disappear_time,islemler" .
+<tag:stardog:designer:Serious_Game:data:GamesDB.GamesCollection:Uzay%20Maceras%C4%B1%3AMeteor%20Yolculu%C4%9Fu> <tag:stardog:designer:Serious_Game:model:patient_aim> "Arm movements in 2D" .
+<tag:stardog:designer:Serious_Game:data:GamesDB.GamesCollection:Hedef%20Vurmaca> <tag:stardog:designer:Serious_Game:model:patient_aim> "Arm movements in 2D" .
+<tag:stardog:designer:Serious_Game:data:GamesDB.GamesCollection:Uzay%20Maceras%C4%B1%3A%20Kurtarma%20G%C3%B6revi> <tag:stardog:designer:Serious_Game:model:patient_aim> "Arm movements in 3D and Color Recognition" .
+<tag:stardog:designer:Serious_Game:data:GamesDB.GamesCollection:Uzay%20Maceras%C4%B1%3A%20Roket%20Karma%C5%9Fas%C4%B1> <tag:stardog:designer:Serious_Game:model:patient_aim> "Arm movements in 3D and Basic Aritmethics" .
+<tag:stardog:designer:Serious_Game:data:GamesDB.GamesCollection:Uzay%20Maceras%C4%B1%3AMeteor%20Yolculu%C4%9Fu> <tag:stardog:designer:Serious_Game:model:reaching> "Her yöne fonksiyonel uzanma" .
+<tag:stardog:designer:Serious_Game:data:GamesDB.GamesCollection:Hedef%20Vurmaca> <tag:stardog:designer:Serious_Game:model:reaching> "Her yöne fonksiyonel uzanma" .
+<tag:stardog:designer:Serious_Game:data:GamesDB.GamesCollection:Uzay%20Maceras%C4%B1%3A%20Kurtarma%20G%C3%B6revi> <tag:stardog:designer:Serious_Game:model:reaching> "Her yöne fonksiyonel uzanma, Renk Algılama" .
+<tag:stardog:designer:Serious_Game:data:GamesDB.GamesCollection:Uzay%20Maceras%C4%B1%3A%20Roket%20Karma%C5%9Fas%C4%B1> <tag:stardog:designer:Serious_Game:model:reaching> "Her yöne fonksiyonel uzanma, Aritmetik" .
+<tag:stardog:designer:Serious_Game:data:GamesDB.GamesCollection:Uzay%20Maceras%C4%B1%3AMeteor%20Yolculu%C4%9Fu> <tag:stardog:designer:Serious_Game:model:Reaching_Type> 4 .
+<tag:stardog:designer:Serious_Game:data:GamesDB.GamesCollection:Hedef%20Vurmaca> <tag:stardog:designer:Serious_Game:model:Reaching_Type> 4 .
+<tag:stardog:designer:Serious_Game:data:GamesDB.GamesCollection:Uzay%20Maceras%C4%B1%3A%20Kurtarma%20G%C3%B6revi> <tag:stardog:designer:Serious_Game:model:Reaching_Type> 4 .
+<tag:stardog:designer:Serious_Game:data:GamesDB.GamesCollection:Uzay%20Maceras%C4%B1%3A%20Roket%20Karma%C5%9Fas%C4%B1> <tag:stardog:designer:Serious_Game:model:Reaching_Type> 4 .
+<tag:stardog:designer:Serious_Game:data:GamesDB.GamesCollection:Uzay%20Maceras%C4%B1%3AMeteor%20Yolculu%C4%9Fu> <tag:stardog:designer:Serious_Game:model:used_for_treating> "Dipleji,Hemipleji" .
+<tag:stardog:designer:Serious_Game:data:GamesDB.GamesCollection:Uzay%20Maceras%C4%B1%3A%20Kurtarma%20G%C3%B6revi> <tag:stardog:designer:Serious_Game:model:used_for_treating> "Dipleji,Hemipleji" .
+<tag:stardog:designer:Serious_Game:data:GamesDB.GamesCollection:Uzay%20Maceras%C4%B1%3A%20Roket%20Karma%C5%9Fas%C4%B1> <tag:stardog:designer:Serious_Game:model:used_for_treating> "Dipleji,Hemipleji" .
